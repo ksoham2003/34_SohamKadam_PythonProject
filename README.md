@@ -1,6 +1,6 @@
 # Python Assignment Questions
 ## Week 1:
-1.Write a Python program for extracting the string and display its count. - [vowels.py](https://github.com/ksoham2003/34_SohamKadam_PythonProject/blob/main/vowels.py)
+1.Write a Python program for extracting the string and display its count. - [vowels.py](https://github.com/ksoham2003/34_SohamKadam_PythonProject/blob/main/vowels.py/)
 <br>
 2.Write a program for extracting the prime number from the list of numbers. - [prime.py](https://github.com/ksoham2003/34_SohamKadam_PythonProject/blob/main/prime.py)
 <br>
