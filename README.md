@@ -13,8 +13,8 @@
 ## Week 2:
 1. Write a Python program for converting c program into python. - [c_to_python]
 <br>
-2. Write a program for converting c++ program into python. - [c++_to_python]
+3. Write a program for converting c++ program into python. - [c++_to_python]
 <br>
-3. Write a program for converting Java code into python. - [java_to_python]
+4. Write a program for converting Java code into python. - [java_to_python]
 <br>
-4. Write a program for designing any game GUI using guizero library and it's functions. -[GUI]
+5. Write a program for designing any game GUI using guizero library and it's functions. -[GUI]
